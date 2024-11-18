@@ -1,7 +1,0 @@
-
-flask
-langchain
-transformers
-torch
-chromadb
-pdf2image
